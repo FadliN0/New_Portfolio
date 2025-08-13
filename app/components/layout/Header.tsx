@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react'
 import Link from 'next/link'
 import { useTheme } from 'next-themes'
 import { motion, AnimatePresence } from 'framer-motion'
-import { Moon, Sun, Menu, X, Code2 } from 'lucide-react'
+import { X, Code2 } from 'lucide-react'
 
 const navItems = [
   { name: 'Home', href: '#hero' },
